@@ -1,5 +1,8 @@
 {
   "2380013": "Private queries/appmetrica.events/2380013-appmetrica_events_view.sql",
   "2512885": "Private queries/playground/2512885-mdw_days.sql",
-  "1823158": "1823158-My first shared query.sql"
+  "1823158": "1823158-My first shared query.sql",
+  "2523213": "lesson-4/create_db.sql",
+  "2523214": "lesson-5/ubuntu/create_db.sql",
+  "2523215": "lesson-5/windows/create_db.sql"
 }
